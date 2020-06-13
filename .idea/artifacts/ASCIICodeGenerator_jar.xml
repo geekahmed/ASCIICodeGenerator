@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ASCIICodeGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ASCIICodeGenerator_jar</output-path>
+    <root id="archive" name="ASCIICodeGenerator.jar">
+      <element id="module-output" name="ASCIICodeGenerator" />
+    </root>
+  </artifact>
+</component>
